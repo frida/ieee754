@@ -32,6 +32,7 @@
     "/index.js",
     "/index.d.ts"
   ],
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/frida/ieee754.git"
